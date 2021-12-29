@@ -6,10 +6,10 @@
 
 ## Screenshot
 ### Platform Mario
-![Platform Mario](https://github.com/Y2theK/simple-game-with-Csharp/blob/main/demo-images/platform_mario.PNG "Floopy Bird")
+![Platform Mario](https://github.com/Y2theK/simple-game-with-Csharp/blob/main/gameTuto_floppyBird/demo%20images/platform_mario.PNG "PlatForm Mario")
 
 ### Floppy Bird
-![Floppy Bird](https://github.com/Y2theK/simple-game-with-Csharp/blob/main/demo-images/floppybird.PNG "Floopy Bird")
+![Floppy Bird](https://github.com/Y2theK/simple-game-with-Csharp/blob/main/demo%20images/floppybird.PNG "Floopy Bird")
 
 ## Tech Stacks
 `C#` `window form application`
