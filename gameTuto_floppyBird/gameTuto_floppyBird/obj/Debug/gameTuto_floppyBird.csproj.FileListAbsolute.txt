@@ -1,0 +1,18 @@
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.Form1.resources
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.csproj.GenerateResource.Cache
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.exe.config
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.exe
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.pdb
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.Properties.Resources.resources
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.exe
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.pdb
+C:\Users\Y2K\Desktop\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.csprojResolveAssemblyReference.cache
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.exe.config
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.exe
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.pdb
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.exe
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\bin\Debug\gameTuto_floppyBird.pdb
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.csprojResolveAssemblyReference.cache
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.Form1.resources
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.Properties.Resources.resources
+C:\My files\MyProject\C#\gameTuto_floppyBird\gameTuto_floppyBird\obj\Debug\gameTuto_floppyBird.csproj.GenerateResource.Cache
